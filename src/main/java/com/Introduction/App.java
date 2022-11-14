@@ -17,5 +17,12 @@ public class App
         System.out.println("Hello Nation!");
         System.out.println("Hello Culture!");
 
+        
+        
+        System.out.println("Hello District!");
+        System.out.println("Hello Taluka!");
+        System.out.println("Hello City!");
+
+
     }
 }
